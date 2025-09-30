@@ -1,5 +1,5 @@
 # 1. 변수 선언
-name = "Alice"
+name = "squallki"
 age = 25
 score = 95.5
 
